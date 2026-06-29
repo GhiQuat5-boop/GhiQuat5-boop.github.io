@@ -1,0 +1,2 @@
+- name: Generate Directory Listing Action
+  uses: yKicchan/generate-directory-listing-action@v1.1.0
